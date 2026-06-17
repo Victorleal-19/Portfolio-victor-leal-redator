@@ -34,7 +34,7 @@ export default function AboutSection() {
                   src="/src/assets/images/perfil.jpeg"
                   alt="Victor Leal - Redator, Copywriter e Jornalista"
                   referrerPolicy="no-referrer"
-                  className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-[1.02]"
+                  className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-102"
                 />
                 
                 {/* Information Bottom overlay tab */}

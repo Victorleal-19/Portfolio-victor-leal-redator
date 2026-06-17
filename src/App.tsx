@@ -265,7 +265,7 @@ export default function App() {
               </span>
               <div className="flex items-center gap-2">
                 <a
-                  href="https://drive.google.com/file/d/1zdyFsLR1WkTTlIgtaxZtShYjB7tkLQVa/view?usp=drive_link"
+                  href="https://drive.google.com/file/d/1ROZkNTrMItF8oWxxDbqxgtbEDE8WcqIl/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-brand-blue hover:bg-brand-blue-light text-white text-xs font-semibold px-4 py-2.5 rounded-lg flex items-center gap-1.5 transition-colors cursor-pointer"

@@ -435,7 +435,7 @@ export const contacts: ContactChannel[] = [
     label: 'Download CV',
     value: 'Versão PDF completa',
     iconName: 'Download',
-    url: 'https://drive.google.com/file/d/1zdyFsLR1WkTTlIgtaxZtShYjB7tkLQVa/view?usp=drive_link',
+    url: 'https://drive.google.com/file/d/1ROZkNTrMItF8oWxxDbqxgtbEDE8WcqIl/view?usp=sharing',
     color: '#0047BC',
     glowColor: 'rgba(0, 71, 188, 0.4)'
   }

@@ -112,7 +112,7 @@ export default function HeroSection({ onOpenCV }: HeroSectionProps) {
           </button>
 
           <a
-            href="https://drive.google.com/file/d/1zdyFsLR1WkTTlIgtaxZtShYjB7tkLQVa/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1ROZkNTrMItF8oWxxDbqxgtbEDE8WcqIl/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full sm:w-auto bg-[#08071A]/80 hover:bg-white/5 text-white font-semibold border border-white/10 hover:border-white/25 tracking-wider text-xs px-8 py-4 rounded-full transition-all duration-300 flex items-center justify-center gap-2 cursor-pointer hover:-translate-y-0.5"
