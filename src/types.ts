@@ -47,3 +47,4 @@ export interface ContactChannel {
   color: string;
   glowColor: string;
 }
+

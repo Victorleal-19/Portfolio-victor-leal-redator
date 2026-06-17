@@ -1,5 +1,6 @@
 import React from 'react';
 import { Compass, Sparkles, MessageSquare, Flame } from 'lucide-react';
+import perfilImage from '../assets/images/perfil.jpeg';
 
 export default function AboutSection() {
   return (
@@ -31,7 +32,7 @@ export default function AboutSection() {
               {/* Photo placeholder with visual accent overlays */}
               <div className="relative rounded-2xl overflow-hidden aspect-square bg-[#0e0c29]">
                 <img
-                  src="/src/assets/images/perfil.jpeg"
+                  src={perfilImage}
                   alt="Victor Leal - Redator, Copywriter e Jornalista"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-102"
